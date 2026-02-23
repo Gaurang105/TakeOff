@@ -1,0 +1,8 @@
+-r requirements.txt
+pytest==8.3.5
+pytest-asyncio==0.25.3
+pytest-httpx==0.35.0
+black==25.1.0
+isort==6.0.0
+flake8==7.1.2
+mypy==1.15.0
