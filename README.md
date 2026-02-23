@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ### 3. Create a GitHub Token
 
 - Go to https://github.com/settings/tokens
-- Create a fine-grained PAT with **Read and Write** access to **Pull Requests** for the relevant repositories
+- Create a fine-grained PAT with **Read and Write** access to **Pull Requests** and **Contents** for the relevant repositories
 
 ### 4. Configure environment variables
 
